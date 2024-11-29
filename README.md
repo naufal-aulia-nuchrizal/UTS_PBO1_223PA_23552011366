@@ -17,6 +17,6 @@ Aplikasi E-Commerce
 # Penjelasan 4 pilar oop dalam studi kasus
 
 # Demo kasus
-- github  :
+- github  : https://github.com/naufal-aulia-nuchrizal/UTS_PBO1_223PA_23552011366.git
 - youtube :
 
