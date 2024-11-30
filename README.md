@@ -18,5 +18,5 @@ Aplikasi E-Commerce
 
 # Demo kasus
 - github  : https://github.com/naufal-aulia-nuchrizal/UTS_PBO1_223PA_23552011366.git
-- youtube :
+- youtube : https://youtu.be/yLhNrazX43A
 
